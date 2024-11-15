@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="6cc617a683b512103003caffeeaad3af" extends="sn_creatorstudio_task" label="Demo app Request" max_length="40" name="x_680259_demo_app_request" type="collection"/>
-</database>

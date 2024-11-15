@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="32c69b2683b512103003caffeeaad381" sys_domain="global" table="x_680259_demo_app_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-14 10:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fc697a683b512103003caffeeaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_680259_demo_app_request" name="x_680259_demo_app_request" sys_domain="global" view="Default view">32c69b2683b512103003caffeeaad381</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_680259_demo_app_request" sys_domain="global" view="Default view">76c697a683b512103003caffeeaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-14 10:31:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-14 10:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fc697a683b512103003caffeeaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_680259_demo_app_request" name="x_680259_demo_app_request" sys_domain="global" view="Default view">32c69b2683b512103003caffeeaad381</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_680259_demo_app_request" sys_domain="global" view="Default view">0fc697a683b512103003caffeeaad397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-14 10:31:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_680259_demo_app_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-14 10:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32c69b2683b512103003caffeeaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_680259_demo_app_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_32c69b2683b512103003caffeeaad381</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-14 10:31:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo app">e8c617a683b512103003caffeeaad3a5</application>
+        <file_path/>
+        <instance_id>75295c981b4eb5546a85eb9b2d4bcb62</instance_id>
+        <instance_name>dev189471</instance_name>
+        <name>sys_ui_form_sections_32c69b2683b512103003caffeeaad381</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="32c69b2683b512103003caffeeaad381" sys_domain="global" table="x_680259_demo_app_request" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-14 10:31:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0fc697a683b512103003caffeeaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_680259_demo_app_request" name="x_680259_demo_app_request" sys_domain="global" view="Default view">32c69b2683b512103003caffeeaad381</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_680259_demo_app_request" sys_domain="global" view="Default view">76c697a683b512103003caffeeaad380</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-14 10:31:59</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-14 10:31:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8fc697a683b512103003caffeeaad39b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_680259_demo_app_request" name="x_680259_demo_app_request" sys_domain="global" view="Default view">32c69b2683b512103003caffeeaad381</sys_ui_form><sys_ui_section caption="Notes" display_value="Notes" name="x_680259_demo_app_request" sys_domain="global" view="Default view">0fc697a683b512103003caffeeaad397</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-14 10:31:59</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_680259_demo_app_request</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-14 10:31:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>32c69b2683b512103003caffeeaad381</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_680259_demo_app_request</sys_name><sys_overrides/><sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package><sys_policy/><sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope><sys_update_name>sys_ui_form_sections_32c69b2683b512103003caffeeaad381</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-14 10:31:58</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1262586607</payload_hash>
+        <record_name>Demo app Request</record_name>
+        <reverted_from/>
+        <source>e4c617a683b512103003caffeeaad3aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 10:31:59</sys_created_on>
+        <sys_id>cbc697a683b512103003caffeeaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1932a3ad6b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 10:31:59</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>07c697a65ab512103dd282195f3d129d</update_guid>
+        <update_guid_history>07c697a65ab512103dd282195f3d129d:1262586607,3ec697a65eb51210a46a2f9b886a907e:961212126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 21:03:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>56b4a51256154276ad3488372d9faae4</sys_id>
+        <sys_metadata>32c69b2683b512103003caffeeaad381</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_680259_demo_app_request</sys_name>
+        <sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package>
+        <sys_parent display_value="">6cc617a683b512103003caffeeaad3af</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope>
+        <sys_scope_delete display_value="">862579da99eb4c7abb5dbf1115fd6b69</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_32c69b2683b512103003caffeeaad381</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_32c69b2683b512103003caffeeaad381">cbc697a683b512103003caffeeaad39d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 21:03:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

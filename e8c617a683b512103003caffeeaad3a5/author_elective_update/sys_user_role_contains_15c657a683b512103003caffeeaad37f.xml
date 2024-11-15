@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains>
+        <role display_value="x_680259_demo_app.agent" name="x_680259_demo_app.agent">ddc657a683b512103003caffeeaad359</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 10:31:52</sys_created_on>
+        <sys_id>15c657a683b512103003caffeeaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_creatorstudio.basic_fulfiller.x_680259_demo_app.agent</sys_name>
+        <sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope>
+        <sys_update_name>sys_user_role_contains_15c657a683b512103003caffeeaad37f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 10:31:52</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo app">e8c617a683b512103003caffeeaad3a5</application>
+        <file_path/>
+        <instance_id>75295c981b4eb5546a85eb9b2d4bcb62</instance_id>
+        <instance_name>dev189471</instance_name>
+        <name>sys_user_role_contains_15c657a683b512103003caffeeaad37f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains><role display_value="x_680259_demo_app.agent" name="x_680259_demo_app.agent">ddc657a683b512103003caffeeaad359</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-14 10:31:52</sys_created_on><sys_id>15c657a683b512103003caffeeaad37f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_creatorstudio.basic_fulfiller.x_680259_demo_app.agent</sys_name><sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package><sys_policy/><sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope><sys_update_name>sys_user_role_contains_15c657a683b512103003caffeeaad37f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-14 10:31:52</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>397203387</payload_hash>
+        <record_name>sn_creatorstudio.basic_fulfiller.x_680259_demo_app.agent</record_name>
+        <reverted_from/>
+        <source>e4c617a683b512103003caffeeaad3aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 10:31:53</sys_created_on>
+        <sys_id>d1c657a683b512103003caffeeaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1932a3abdfa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 10:31:53</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>95c657a642b51210fcdd29b320e4b982</update_guid>
+        <update_guid_history>95c657a642b51210fcdd29b320e4b982:397203387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 21:03:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>791c30d2913241208c2aa57f88b75ae4</sys_id>
+        <sys_metadata>15c657a683b512103003caffeeaad37f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_creatorstudio.basic_fulfiller.x_680259_demo_app.agent</sys_name>
+        <sys_package display_value="Demo app" source="x_680259_demo_app">e8c617a683b512103003caffeeaad3a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo app">e8c617a683b512103003caffeeaad3a5</sys_scope>
+        <sys_scope_delete display_value="">862579da99eb4c7abb5dbf1115fd6b69</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_15c657a683b512103003caffeeaad37f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_15c657a683b512103003caffeeaad37f">d1c657a683b512103003caffeeaad383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 21:03:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
